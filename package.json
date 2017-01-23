@@ -1,0 +1,21 @@
+{
+  "name": "day7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "garanteed.js",
+  "scripts": {
+
+    "start": "garanteed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanitale/day7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanitale/day7/issues"
+  },
+  "homepage": "https://github.com/Hanitale/day7#readme"
+}
